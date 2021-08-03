@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 Working on VUE
+- 🌱 Currently learning Echarts
+  
+### 🚀 Skills
+TODO icons
+
 <!--
 **Griffin23/Griffin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

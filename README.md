@@ -29,6 +29,10 @@
 ### other
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/vim.png" alt="vim" width="30"/>
 
+### 🤔 Statistics
+[![Griffin23's Github stats](https://github-readme-stats.vercel.app/api?username=Griffin23&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Griffin23/Griffin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

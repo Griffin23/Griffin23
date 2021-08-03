@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+- 💻 Front-end DEV
 - 🔭 Working on VUE
 - 🌱 Currently learning Echarts
+- 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills
 

@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning Express
+- 🌱 Currently learning Express & Koa
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills

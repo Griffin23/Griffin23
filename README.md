@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning React
+- 🌱 Currently learning WeChat Mini Program
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills
@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/python.png" alt="python" width="30"/>
 
 #### framework & library
-<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/vue.png" alt="vue" width="30"/><img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/webpack.png" alt="webpack" width="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/vue.png" alt="vue" width="30"/><img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/react.png" alt="react" width="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/webpack.png" alt="webpack" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nodejs.png" alt="nodejs" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nuxt.png" alt="nuxt" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/sass.png" alt="sass" width="30"/>

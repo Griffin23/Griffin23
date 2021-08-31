@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning Uni-App
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills
@@ -19,6 +19,7 @@
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/vue.png" alt="vue" width="30"/><img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/react.png" alt="react" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/webpack.png" alt="webpack" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nodejs.png" alt="nodejs" width="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/typescript.png" alt="typescript" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nuxt.png" alt="nuxt" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/sass.png" alt="sass" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/echarts.png" alt="sass" width="30" height="30"/>

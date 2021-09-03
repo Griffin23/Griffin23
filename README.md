@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning Uni-App
+- 🌱 Currently learning PWA
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills
@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nuxt.png" alt="nuxt" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/sass.png" alt="sass" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/echarts.png" alt="sass" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/uniapp.png" alt="uni-app" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/wechat-mini-program.png" alt="wechat-mini-program" width="30"/>
 
 #### devops

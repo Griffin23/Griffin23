@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning PWA
+- 🌱 Currently learning Jest
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills

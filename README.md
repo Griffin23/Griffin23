@@ -2,7 +2,7 @@
 
 - 💻 Front-end DEV
 - 🔭 Working on VUE
-- 🌱 Currently learning - micro frontends & [qiankun](https://qiankun.umijs.org/)
+- 🌱 Currently learning - 3dmax
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills

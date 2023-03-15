@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/uniapp.png" alt="uni-app" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/wechat-mini-program.png" alt="wechat-mini-program" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/threejs.png" alt="threejs" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/rxjs.png" alt="rxjs" width="30" height="30"/>
 
 #### devops
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/git.png" alt="git" width="30"/><img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/npm.png" alt="npm" width="30"/>

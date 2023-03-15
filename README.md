@@ -30,6 +30,7 @@
 
 #### devops
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/git.png" alt="git" width="30"/><img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/npm.png" alt="npm" width="30"/>
+<img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/docker.png" alt="docker" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/jenkins.png" alt="jenkins" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/nginx.png" alt="nginx" width="30"/>
 <img src="https://raw.githubusercontent.com/Griffin23/Griffin23/main/img/icon/google-tag-manager.png" alt="google tag manager" width="30"/>

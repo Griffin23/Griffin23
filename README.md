@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 💻 Front-end DEV
-- 🔭 Working on VUE
-- 🌱 Currently learning - 3dmax
+- 🔭 Working on VUE, Angular, C#
+- 🌱 Currently learning -
 - 🎁 Hobby: 🏀 Basketball & 🚲 Bike
 
 ### 🚀 Skills
